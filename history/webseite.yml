@@ -1,7 +1,7 @@
 url: https://revox.dev
-status: up
-code: 200
-responseTime: 508
-lastUpdated: 2026-05-01T12:48:51.547Z
+status: down
+code: 502
+responseTime: 374
+lastUpdated: 2026-05-01T15:49:47.980Z
 startTime: 2026-03-21T11:04:34.493Z
 generator: Upptime <https://github.com/upptime/upptime>
