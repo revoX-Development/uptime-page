@@ -4,18 +4,19 @@
     "url": "https://revox.dev",
     "icon": "https://icons.duckduckgo.com/ip3/revox.dev.ico",
     "slug": "webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.72%",
-    "time": 494,
-    "timeDay": 587,
-    "timeWeek": 554,
+    "time": 495,
+    "timeDay": 553,
+    "timeWeek": 550,
     "timeMonth": 512,
-    "timeYear": 494,
+    "timeYear": 495,
     "dailyMinutesDown": {
+      "2026-05-01": 0,
       "2026-04-21": 32,
       "2026-04-20": 131
     }
@@ -37,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-01": 24,
+      "2026-05-01": 461,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
