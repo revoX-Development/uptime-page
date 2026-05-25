@@ -5,20 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/revox.dev.ico",
     "slug": "webseite",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "99.55%",
-    "time": 489,
-    "timeDay": 421,
-    "timeWeek": 442,
-    "timeMonth": 494,
-    "timeYear": 489,
+    "uptimeYear": "99.56%",
+    "time": 490,
+    "timeDay": 582,
+    "timeWeek": 438,
+    "timeMonth": 495,
+    "timeYear": 490,
     "dailyMinutesDown": {
-      "2026-05-01": 250,
+      "2026-04-20": 131,
       "2026-04-21": 32,
-      "2026-04-20": 131
+      "2026-05-01": 250
     }
   },
   {
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 26,
+      "2026-05-25": 28,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
